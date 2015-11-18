@@ -1,2 +1,2 @@
 # GitTest
-Visual Studio Test
+Hello from VS Code
